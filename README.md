@@ -1,1 +1,2 @@
-# Cap-205-Budget-analyzer
+#An budget analyzer webpage for students and teenagers who face challenges in managing their expenses 
+#The main Aim of this webpage is to let them easily overcome the issue of managing expenses by planning, organizing and controlling their expenses . This application can let them to gain the control over these problems by making new challenges of daily spent , following streaks , suggesting them more ideas of having a good control easily and effectively .
